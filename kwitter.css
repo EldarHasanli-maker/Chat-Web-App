@@ -1,0 +1,23 @@
+body{
+    background-color:royalblue;
+}
+.login_div1{
+    float: none;
+ border-radius: 15px;
+
+}
+h1{
+    color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+img{
+    width: 100px;
+    
+}
+#output{
+    padding: 10px;
+    width: 80%;
+    background: white;
+    border-radius: 15px;
+}
